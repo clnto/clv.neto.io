@@ -1,0 +1,50 @@
+body{
+    color: rgb(32, 135, 32);
+    background-color: rgb(213, 24, 24, 0.262);
+}
+
+.nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 8px;
+    
+}
+a {
+    color:  rgb(32, 135, 32);
+    text-decoration: none;
+    
+}
+.content img{
+    width: 400px;
+    height: 270px;
+    border: 5px solid rgb(39, 82, 65);
+    
+
+}
+.header{
+    background-color: rgb(91, 27, 27);
+    text-align: center;
+}
+.content{
+    text-align: center;
+    background-color: rgb(39, 82, 65) ;
+}
+section{
+    text-align: center
+}
+section img{
+    width: 400px;
+    height: 240px;
+    border-radius: 50%;
+}
+.footer ul{
+    list-style-type: circle;
+    background: #ffe5e5;
+   color: rgb(32, 135, 32);
+  padding: 5px;
+  margin-left: 35px;
+}
+.footer h2{
+    text-align: center;
+}
